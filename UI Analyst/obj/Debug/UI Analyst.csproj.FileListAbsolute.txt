@@ -1,0 +1,6 @@
+D:\Cardozo\Documents\Visual Studio 2015\Projects\UI Analyst\UI Analyst\bin\Debug\UI Analyst.exe.config
+D:\Cardozo\Documents\Visual Studio 2015\Projects\UI Analyst\UI Analyst\bin\Debug\UI Analyst.exe
+D:\Cardozo\Documents\Visual Studio 2015\Projects\UI Analyst\UI Analyst\bin\Debug\UI Analyst.pdb
+D:\Cardozo\Documents\Visual Studio 2015\Projects\UI Analyst\UI Analyst\obj\Debug\UI Analyst.csprojResolveAssemblyReference.cache
+D:\Cardozo\Documents\Visual Studio 2015\Projects\UI Analyst\UI Analyst\obj\Debug\UI Analyst.exe
+D:\Cardozo\Documents\Visual Studio 2015\Projects\UI Analyst\UI Analyst\obj\Debug\UI Analyst.pdb
